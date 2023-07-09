@@ -17,3 +17,9 @@ The following research questions are addressed in this project:
 10. What is the distribution of preferred times for playing sports/games among survey respondents who follow sports news and follow a diet?
 11. What is the comparison of preferred sports among male survey respondents under 25 years old and those over 25 years old, based on whether they like to play indoor, outdoor or both sports/games?
 12. What is the most commonly watched sport/event among survey respondents who are experts in any game/sport and over 35 years old?
+
+## Dataset
+
+The dataset used in this project was created using Google Forms survey, ensuring comprehensive and reliable responses from the participants. The survey questionnaire was carefully designed to capture relevant information regarding user sport and physical activity preferences, behaviors, and demographics. The collected data provides a valuable foundation for conducting a detailed analysis and deriving meaningful insights.
+
+By utilizing this self-collected dataset, we ensure that the analysis and visualizations presented in this project are based on a reliable and customized set of responses. This enables a more accurate understanding of user preferences and behaviors in the context of sports and physical activities.
